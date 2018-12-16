@@ -12,7 +12,7 @@
 
 *Landscape versie:*
 
-<img src="https://github.com/duncanvrosch/Mr-Potatohead/blob/master/doc/Screenshot_20181216-171749.png" width="30%" height="30%"/>
+<img src="https://github.com/duncanvrosch/Mr-Potatohead/blob/master/doc/Screenshot_20181216-171749.png" width="60%" height="60%"/>
 
 
 
